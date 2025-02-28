@@ -5,5 +5,6 @@
 - clip_models.py: The full model, forward propagation.
 - model.py: clip encoder, forgery encoder, projector
 - trainer.py: model weight update, semantic distribution alignment loss, authenticity discrepancy alignment loss
+- train.sh: training scripts and hyperparameter
 
 We are in the process of organizing the training and testing code. I will continue to update the code, add comments, and improve code readability.
